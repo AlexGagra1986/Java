@@ -1,4 +1,4 @@
-package ru.lesson1.positiveInteger;
+package ru.GeekBrains.Lesson1.positiveInteger;
 
 public class main {
     public static void main(String[] args) {

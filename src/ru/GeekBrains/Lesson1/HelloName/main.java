@@ -1,4 +1,4 @@
-package ru.lesson1.HelloName;
+package ru.GeekBrains.Lesson1.HelloName;
 
 public class main {
     public static void main(String[] args) {

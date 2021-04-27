@@ -1,4 +1,4 @@
-package ru.lesson1.intMethod;
+package ru.GeekBrains.Lesson1.intMethod;
 
 public class mainInt {
     public static void main(String[] args) {
