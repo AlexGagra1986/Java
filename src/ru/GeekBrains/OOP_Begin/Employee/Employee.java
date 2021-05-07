@@ -1,12 +1,12 @@
 package ru.GeekBrains.OOP_Begin.Employee;
 
 public class Employee {
-    String FIO;
-    String position;
-    String email;
-    int telephone;
-    int salary;
-    int age;
+    private String FIO;
+    private String position;
+    private String email;
+    private int telephone;
+    private int salary;
+    private int age;
 
     public Employee(String FIO, String position, String email, int telephone, int salary, int age) {
         this.FIO = FIO;
