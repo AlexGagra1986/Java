@@ -1,4 +1,4 @@
-package ru.GeekBrains.AdvancedOop;
+package ru.GeekBrains.Lesson6.AdvancedOop;
 
 public class Main {
     public static void main(String[] args) {
