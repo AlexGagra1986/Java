@@ -1,4 +1,4 @@
-package ru.GeekBrains.CatsAndPlates;
+package ru.GeekBrains.Lesson8;
 
 public class Plate {
     private int food;

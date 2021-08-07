@@ -1,4 +1,4 @@
-package ru.GeekBrains.CatsAndPlates;
+package ru.GeekBrains.Lesson8;
 
 public class Cat {
     private String name;
