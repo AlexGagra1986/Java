@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson6.AdvancedOop;
+package ru.GeekBrains.Lesson6;
 
 public class Cat extends Animals {
 

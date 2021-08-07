@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson5.OOP_Begin.Employee;
+package ru.GeekBrains.Lesson5;
 
 public class Main {
     public static void main(String[] args) {
