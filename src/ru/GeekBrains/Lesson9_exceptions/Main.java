@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson9;
+package ru.GeekBrains.Lesson9_exceptions;
 
 public class Main {
     private static final int SIZE = 4 ;// cоздаю статическое поле фиксированной длины

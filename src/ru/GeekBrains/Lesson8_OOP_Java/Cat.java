@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson8;
+package ru.GeekBrains.Lesson8_OOP_Java;
 
 public class Cat {
     private String name;

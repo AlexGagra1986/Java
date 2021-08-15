@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson7;
+package ru.GeekBrains.Lesson7_OOP_practice_and_working_with_strings;
 
 public class Main {
     public static void main(String[] args) {

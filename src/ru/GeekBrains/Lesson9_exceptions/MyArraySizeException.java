@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson9;
+package ru.GeekBrains.Lesson9_exceptions;
 
 public class MyArraySizeException extends Exception {
 

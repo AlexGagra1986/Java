@@ -1,6 +1,4 @@
-package ru.GeekBrains.Lesson7;
-
-import org.w3c.dom.ls.LSOutput;
+package ru.GeekBrains.Lesson7_OOP_practice_and_working_with_strings;
 
 public class Wall implements Obstacle {
     private int height;
