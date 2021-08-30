@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson9_exceptions;
+package ru.GeekBrains.Lesson9_Exceptions;
 
 public class MyArrayDataException extends Exception {
 

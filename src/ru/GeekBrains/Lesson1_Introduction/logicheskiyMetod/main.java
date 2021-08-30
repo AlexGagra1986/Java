@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson1.logicheskiyMetod;
+package ru.GeekBrains.Lesson1_Introduction.logicheskiyMetod;
 
 public class main {
     public static void main(String[] args) {

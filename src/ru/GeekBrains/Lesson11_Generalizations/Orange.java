@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson11;
+package ru.GeekBrains.Lesson11_Generalizations;
 
 public class Orange extends Fruts{
     @Override

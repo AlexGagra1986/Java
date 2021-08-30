@@ -84,10 +84,10 @@ public class Main {
         for (int i = 0; i < 4; i++) {
             hor = 0; ver = 0;
             for (int j = 0; j < 4; j++) {
-                if (map[i][j] == dot) {
+                if (map[i][j] == dot){
                     hor++;
                 }
-                if (map[j][i] == dot) {
+                if (map[j][i] == dot){
                     ver++;
                 }
             }

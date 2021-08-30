@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson1.method;
+package ru.GeekBrains.Lesson1_Introduction.method;
 
 public class main {
     public static void main(String[] args) {

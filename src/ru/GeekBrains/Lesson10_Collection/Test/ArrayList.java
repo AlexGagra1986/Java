@@ -1,20 +1,20 @@
-package ru.GeekBrains.Lesson10_Collection.Test;
+//package ru.GeekBrains.Lesson10_Collection.Test;
 //
 //import javax.swing.text.html.HTMLDocument;
 //import java.util.ArrayList;
 //import java.util.Iterator;
-//import java.util.List;
-//import java.util.ListIterator;
-//import java.util.function.Consumer;
-
-// любые коллекции работают только со ссылочными типами данных
-//public class ArrayList {class
-
-
-
-
-//    public static void main(String[] args) {
-//        List list =new ArrayList<>(); //Raw use
+////import java.util.List;
+////import java.util.ListIterator;
+////import java.util.function.Consumer;
+////
+////// любые коллекции работают только со ссылочными типами данных
+////public class ArrayList {
+////
+////
+////
+////
+////    public static void main(String[] args) {
+////        List list =new ArrayList<>(); //Raw use
 ////        List list <String> = new ArrayList<>(); // строго типизированный список
 //        list.add("January");//Добавление элемента в Коллекцию(Массив)
 //        list.add("Febryary");

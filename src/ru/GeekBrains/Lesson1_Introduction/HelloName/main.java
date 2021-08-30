@@ -1,8 +1,8 @@
-package ru.GeekBrains.Lesson1.HelloName;
+package ru.GeekBrains.Lesson1_Introduction.HelloName;
 
 public class main {
     public static void main(String[] args) {
-        String name = " Иван";
+        String name = "Иван";
         res(name);
     }
 

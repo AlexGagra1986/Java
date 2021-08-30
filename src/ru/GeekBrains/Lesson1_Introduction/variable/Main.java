@@ -1,4 +1,4 @@
-package ru.GeekBrains.Lesson1.variable;
+package ru.GeekBrains.Lesson1_Introduction.variable;
 
 public class Main {
     public static void main(String[] args) {
