@@ -46,9 +46,9 @@ public class Main {
     }
 
         public static void main (String s[]){//начало 33 минута
-            Main Main = new Main();
-            Main.Th1();
-            Main.Th2();
+            Main Main = new Main(); // Создаю экземпляр main
+            Main.Th1(); //запуск первого метода
+            Main.Th2(); //запуск второго метода
 
         }
     }
